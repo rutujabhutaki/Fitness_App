@@ -7,7 +7,7 @@ function Footer() {
      <Stack gap="40px" alignItems="center" px="40px" pt="24px">
       <img src={Logo} alt="logo" width="200px" height="40px"/>
       <Typography pb="40px" mt="20px">
-        Made by Ashish Kumar
+        Made by Rutuja Bhutaki
       </Typography>
      </Stack>
     </Box>
