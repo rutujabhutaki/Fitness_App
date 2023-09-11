@@ -3,7 +3,6 @@ import { Button, Typography } from '@mui/material';
 
 const ExerciseCard = ({ exercise }) => {
   const cardRef = useRef(null);
-
 return (
   <Link
   ref={cardRef}
